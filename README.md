@@ -19,4 +19,4 @@ TeamNsruto & Boruto is a ✨ special ✨ repository , its all abt coding...
 ### My Github Status
 ![Toxic Dee Modder's GitHub Status](https://github-readme-stats.vercel.app/api?username=TeamBossBaby&theme=dark&show_icons=true)
 
-- ![Profile views](https://gpvc.arturio.dev/UvinduBro)
+- ![Profile views](https://gpvc.arturio.dev/TeamBossBaby)
