@@ -15,3 +15,6 @@ TeamNsruto & Boruto is a ✨ special ✨ repository , its all abt coding...
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/ToxicGamingMods=Toxic%20Modder&style=social)](https://www.youtube.com/c/ToxicGamingMods/videos)
+
+### My Github Status
+![Toxic Dee Modder's GitHub Status](https://github-readme-stats.vercel.app/api?username=TeamBossBaby&theme=dark&show_icons=true)
