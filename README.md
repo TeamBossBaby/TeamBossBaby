@@ -3,8 +3,8 @@
 TeamNsruto & Boruto is a ✨ special ✨ repository , its all abt coding...
 --->
 
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  🔭 I’m currently working on : Uvindu Bro 👻 Corporation  <br>
+-  🚶‍ &nbsp;I live in : Japan <br>
+-  🔭 I’m currently working on :  <br>
 -  📚 I went to :  Galahitiyawa Central College  <br>
 -  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
 -  🤔 I’m looking for help : For  Me  <br>
