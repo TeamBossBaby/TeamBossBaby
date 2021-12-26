@@ -14,4 +14,4 @@ TeamNsruto & Boruto is a ✨ special ✨ repository , its all abt coding...
 -  ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
 -  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCBNsVUq2MLyxDSe62ljjWdQ?label=Uvindu%20Bro&style=social)](https://www.youtube.com/c/ToxicGamingMods/videos)
+[![Code Palace](https://img.shields.io/youtube/channel/subscribers/ToxicGamingMods=Toxic%20Modder&style=social)](https://www.youtube.com/c/ToxicGamingMods/videos)
